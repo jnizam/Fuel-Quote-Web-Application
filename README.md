@@ -27,7 +27,7 @@
 
 ### Our Page includes 🎯
 <br />
-<img align='left' src='https://media2.giphy.com/media/4oMoIbIQrvCjm/giphy.gif?cid=ecf05e47esel7g35iuq4diuyz01iw911vkecytet7dkfn18b&rid=giphy.gif&ct=g' width=350 />
+
       
 &nbsp; &nbsp; 💵 Client Login
 
